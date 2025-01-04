@@ -13,7 +13,7 @@ export const FormButton = ({label, isLoader=false}: {label:string, isLoader?:boo
         )
         :
         (
-        <Button type="submit" className="mt-4 p-4 rounded-lg w-full bg-primary dark:bg-secondary dark:hover:bg-slate-900/90 text-white dark:text-white ">
+        <Button type="submit" className="mt-4 p-4 rounded-lg w-full bg-primary dark:bg-secondary dark:hover:bg-slate-900/90 text-white dark:text-Platinum ">
         {label}
         </Button>
         )
